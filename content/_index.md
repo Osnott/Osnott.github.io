@@ -17,4 +17,11 @@ I'm an aspiring programmer, currently studying Computer Science and Digital Cult
 
 ## Where can you find me?
 
-You can find me just about anywhere, but if you don't want to go looking, here's my [linktree](https://linktr.ee/osnott).
+You can find me just about anywhere, but if you don't want to go looking...
+
+- [GitLab](https://gitlab.com/Osnott)
+- [Github](https://github.com/osnott)
+- [Bandcamp](https://osnott.bandcamp.com/)
+- [Twitter](https://twitter.com/osnizle)
+- [Instagram](https://www.instagram.com/osnizle/)
+- Discord: **Osnott#2601**

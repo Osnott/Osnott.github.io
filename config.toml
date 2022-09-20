@@ -29,4 +29,4 @@ post = "/post/:year/:month/:day/:slug/"
 [params]
 custom_css = ["css/theme-override.css"]
 description = "A simple, minimal blog for those who love text."
-footer = "Open-Source (Made with [Hugo](https://gohugo.io/)) | [Github](https://github.com/osnott) | [Pronouns](https://en.pronouns.page/@osnott)"
+footer = "Open-Source (Made with [Hugo](https://gohugo.io/)) | [Github](https://github.com/osnott) | [Pronouns](https://en.pronouns.page/@osnott) (*they/them*)"
