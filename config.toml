@@ -26,6 +26,18 @@ tabWidth = 4
 [permalinks]
 post = "/post/:year/:month/:day/:slug/"
 
+[[menu.main]]
+name = "Categories"
+url = "/categories/"
+weight = 1
+[[menu.main]]
+name = "Tags"
+url = "/tags/"
+weight = 2
+[[menu.feed]]
+name = "Subscribe"
+url = "/index.xml"
+
 [params]
 custom_css = ["css/theme-override.css"]
 description = "A simple, minimal blog for those who love text."

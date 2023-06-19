@@ -7,7 +7,7 @@ description: "Funny little person's site"
   src="/images/ralsei.gif"
   alt="Amazing art by @kekeflipnote">
 
-## Hi!
+# Hi!
 
 ### 💛 I'm Aivery, but online I go by Osnott/Osnizle 💛
 
@@ -25,3 +25,5 @@ You can find me just about anywhere, but if you don't want to go looking...
 - [Twitter](https://twitter.com/osnizle)
 - [Instagram](https://www.instagram.com/osnizle/)
 - Discord: **Osnott#2601**
+
+# Posts
