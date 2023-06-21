@@ -1,4 +1,4 @@
-baseurl = "https://osnott.github.io/hugo-site/"
+baseurl = "https://osnott.xyz"
 enableEmoji = true
 footnotereturnlinkcontents = "↩"
 googleAnalytics = ""
