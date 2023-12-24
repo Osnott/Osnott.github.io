@@ -13,7 +13,7 @@ description: "Funny little person's site"
 
 ---
 
-I'm an aspiring programmer, currently studying Computer Science and Media, Arts, and Sciences at ASU. I have some experience in C/C++ and web-based development. I would also consider myself proficient Java, Python, and Linux enviroments. I also have an interest in digital sound/sound design!
+I'm an aspiring programmer, currently studying Computer Science and Media, Arts, and Sciences at ASU. I have some experience in C/C++ and web-based development and I'm proficient Java, Python, and Linux. I also have an interest in digital sound/sound design!
 
 ---
 
